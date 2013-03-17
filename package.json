@@ -1,0 +1,13 @@
+{
+	"name" : "markdown-blog",
+	"version" : "0.0.1",
+	"author" : "Nathan Broslawsky <nathan.broslawsky@nsfive.com>",
+	"scripts" : {
+		"start" : "node ./lib/index.js"
+	},
+	"main" : "./lib/index.js",
+	"dependencies" : {
+		"markdown-js": "0.0.3",
+		"async": "0.2.x"
+	}
+}
